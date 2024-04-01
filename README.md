@@ -25,3 +25,5 @@
 3. hysteria2机场
  https://hy2sub.pages.dev/auto
 4. 油管科技猎奇 https://www.youtube.com/watch?v=2a_B38G0Av0
+5. v2free 签到免费节点官网  https://v2free.org/user
+6. v2rayN客户端下载 https://github.com/2dust/v2rayN/
