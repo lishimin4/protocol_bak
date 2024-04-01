@@ -17,9 +17,9 @@
     https://edgetunnel.github.io/edgetunnel/
 
 订阅分组
-VLESS自定义配置机场
-https://protocol-92h.pages.dev/ff3110d3-7fcd-4e31-acfd-e8b9589a2c59
-V2free机场
-https://v1.v2ai.top/link/qyJWb9UyUOzPCKAo4g3YjSbFn57Qr2EOG6Ua?sub=3
-hysteria2机场
-https://hy2sub.pages.dev/auto
+1. VLESS自定义配置机场
+ https://protocol-92h.pages.dev/ff3110d3-7fcd-4e31-acfd-e8b9589a2c59
+2. V2free机场
+ https://v1.v2ai.top/link/qyJWb9UyUOzPCKAo4g3YjSbFn57Qr2EOG6Ua?sub=3
+3. hysteria2机场
+ https://hy2sub.pages.dev/auto
