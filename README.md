@@ -13,8 +13,9 @@
     https://www.youtube.com/watch?v=8I-yTNHB0aw
 
     CloudFlare 优选ip和优选域名的获取方法！
-    https://www.yiyinyang.com/93.html
-    https://edgetunnel.github.io/edgetunnel/
+    1. https://www.yiyinyang.com/93.html
+    2. https://edgetunnel.github.io/edgetunnel/
+    3. https://stock.hostmonit.com/CloudFlareYes
 
 订阅分组
 1. VLESS自定义配置机场
@@ -23,3 +24,4 @@
  https://v1.v2ai.top/link/qyJWb9UyUOzPCKAo4g3YjSbFn57Qr2EOG6Ua?sub=3
 3. hysteria2机场
  https://hy2sub.pages.dev/auto
+4. 油管科技猎奇 https://www.youtube.com/watch?v=2a_B38G0Av0
