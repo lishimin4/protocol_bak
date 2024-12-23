@@ -7,7 +7,7 @@
  2. https://dash.cloudflare.com/d90f8402fde45bc290b0d15ec8a3e481/workers-and-pages
  3. https://github.com/cmliu/edgetunnel
  4. https://github.com/zizifn/edgetunnel
- 5. https://github.com/3Kmfi6HP/EDtunnel
+ 5. https://github.com/6Kmfi6HP/EDtunnel
 
     3K大佬  Use Cloudflare pages and worker serverless to implement VLESS protocol
     https://www.youtube.com/watch?v=8I-yTNHB0aw
